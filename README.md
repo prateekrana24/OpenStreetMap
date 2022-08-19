@@ -4,6 +4,22 @@ This repo contains the starter code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
 
+OpenStreetMap was the first project in Udacity's C++ Nanodegree program that I completed.
+
+Goal of Project:
+
+The goal of this project was to create a route planner that plots a path between two points on a map using real map data from the OpenStreetMap project (https://www.openstreetmap.org/#map=4/38.01/-95.84).
+
+The starting code for the project came from a Github repo map rendering example (https://github.com/cpp-io2d/P0267_RefImpl/tree/master/P0267_RefImpl/Samples/maps) for the 2D Graphics Library, IO2D.
+
+The files that I edited and completed are seen below:
+
+OpenStreetMap/CppND-Route-Planning-Project/src/main.cpp
+
+OpenStreetMap/CppND-Route-Planning-Project/src/route_planner.cpp
+
+
+
 ## Cloning
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
