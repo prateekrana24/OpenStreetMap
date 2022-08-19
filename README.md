@@ -6,7 +6,7 @@ This repo contains the starter code for the Route Planning project.
 
 OpenStreetMap was the first project in Udacity's C++ Nanodegree program that I completed.
 
-# Goal of Project
+## Goal of Project
 
 The goal of this project was to create a route planner that plots a path between two points on a map using real map data from the OpenStreetMap project (https://www.openstreetmap.org/#map=4/38.01/-95.84).
 
